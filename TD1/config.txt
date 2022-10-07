@@ -1,0 +1,3 @@
+Nombre de coup maximum : 10
+Nombre de score maximum : 100
+Nombre de caractère maximum : 20
